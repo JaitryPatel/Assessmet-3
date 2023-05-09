@@ -1,0 +1,26 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "fname": "Jaitry",
+      "lname": " Patel",
+      "email": "Jaitry@gmail.com",
+      "department": "Frontend",
+      "address": "Vankal",
+      "contactnumber": "9988776655",
+      "description": "I am Jaitry Patel I am doing my internship as a Web Devloper",
+      "status": "Active"
+    },
+    {
+        "id": 2,
+      "fname": "Om",
+      "lname": " Patel",
+      "email": "Om@gmail.com",
+      "department": "Frontend",
+      "address": "Chikhli",
+      "contactnumber": "9988776655",
+      "description": "lorem23",
+      "status": "Active"
+    }
+  ]
+}
